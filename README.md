@@ -9,6 +9,7 @@ Watch my *[demo video!](https://drive.google.com/drive/folders/1Gi3bn9qPW_gR0ISy
   * recursion function
 * [Break Out Game](https://github.com/Albert840529/SC-Projects/blob/master/python_Projects/break_out_game/breakout.py)
   * animation & game designing
+  * Class object oriented 
 * [My Photoshop](https://github.com/Albert840529/SC-Projects/blob/master/python_Projects/my_photoshop/stanCodoshop.py)
   * image processing
 * [Name Popularity Searching System](https://github.com/Albert840529/SC-Projects/blob/master/python_Projects/name_searching_system/babynames.py)
